@@ -4,11 +4,17 @@ I've prepared for a simple html skeleton with using open-source libraries.
 
 ## Libraries
 
-* Twitter Bootstrap 2.3.2
-* Font Awesome 3.1.1
-* Less 1.3.3
-* Retina.js 0.0.2
-* jQuery 1.9.1 
+* [Twitter Bootstrap 2.3.2][01]
+* [Font Awesome 3.1.1][02]
+* [Less 1.3.3][03]
+* [Retina.js 0.0.2][04]
+* [jQuery 1.9.1 ][05]
+
+[01]: https://github.com/twitter/bootstrap
+[02]: https://github.com/FortAwesome/Font-Awesome
+[03]: https://github.com/cloudhead/less.js
+[04]: https://github.com/imulus/retinajs
+[05]: https://github.com/jquery/jquery
 
 ## Download and Install
 
