@@ -1,4 +1,4 @@
-# My Boiler Plate
+# Jenerator
 
 I've prepared for a simple html skeleton with using open-source libraries.
 
