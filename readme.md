@@ -18,6 +18,10 @@ I've prepared for a simple html skeleton with using open-source libraries.
 
 ## Download and Install
 
+Just [download][download] and extract.
+
+[download]: https://github.com/vigo/jenerator/archive/v0.1.zip
+
 ## Local Server
 
 I assumed that you are running OSX or Linux and already have a python!
