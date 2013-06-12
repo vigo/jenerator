@@ -66,3 +66,7 @@ complete -F _server server
 ```
 
 To execute server type `server`
+
+## Change Log
+
+* **2013-06-12** : started
