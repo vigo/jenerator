@@ -5,7 +5,7 @@ I've prepared for a simple html skeleton with using open-source libraries.
 ## Libraries
 
 * [Twitter Bootstrap 2.3.2][01]
-* [Font Awesome 3.1.1][02]
+* [Font Awesome 3.2.0][02]
 * [Less 1.3.3][03]
 * [Retina.js 0.0.2][04]
 * [jQuery 1.9.1 ][05]
@@ -68,5 +68,11 @@ complete -F _server server
 To execute server type `server`
 
 ## Change Log
+
+* **2013-06-13** :  
+  Font Awesome 3.2.0  
+  index.html (update)  
+  less/variables (update)  
+  less/colors.less (removed)
 
 * **2013-06-12** : started
