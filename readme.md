@@ -68,6 +68,9 @@ complete -F _server server
 To execute server type `server`
 
 ## Change Log
+* **2013-07-01** :  
+  Font Awesome 3.2.1  
+  IE7 Support
 
 * **2013-06-13** :  
   Font Awesome 3.2.0  
