@@ -20,7 +20,7 @@ I've prepared for a simple html skeleton with using open-source libraries.
 
 Just [download][download] and extract.
 
-[download]: https://github.com/vigo/jenerator/archive/v0.1.zip
+[download]: https://github.com/vigo/jenerator/archive/v0.2.1.zip
 
 ## Local Server
 
